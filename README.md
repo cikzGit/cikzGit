@@ -3,10 +3,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cikzGit" alt="Profile Forks"></a>
 
 ```python
-print(f'Stars {cikzGit} on Github')
-```
-
-```python
        OS  :  wd10
    Python  :  python 3.9.12
 Languages  :  Python, Java, Js, Batch, C, HTML/CSS
