@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"><img src="https://gpvc.arturio.dev/cikzGit" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cikzGit" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cikzGit" alt="Profile Forks"></a>
 
-<!--
-**cikzGit/cikzGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print(f'Stars {cikzGit} on Github')
+```
 
-Here are some ideas to get you started:
+```python
+       OS  :  wd10
+   Python  :  python 3.9.12
+Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+  Discord  :  873612915079520348
+   Server  :  924461901033926697
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+Patience is a virtue.
+```
+
+<a href="https://discord.gg/9VhKyA7u4c" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
