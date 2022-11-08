@@ -5,7 +5,7 @@
 ```python
        OS  :  wd10
    Python  :  python 3.9.12
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+Languages  :  Node.JS, Java, Js, Batch, C, HTML/CSS
   Discord  :  873612915079520348
    Server  :  924461901033926697
 ```
